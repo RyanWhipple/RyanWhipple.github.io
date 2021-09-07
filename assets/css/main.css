@@ -2125,8 +2125,10 @@ input, select, textarea {
 		}
 
 		#top p {
-			font-size: 1.5em;
-			line-height: 1.75em;
+			/* font-size: 1.5em; */
+			font-size: 1.1em;
+			/* line-height: 1.75em; */
+			line-height: 1.1em;
 		}
 
 			#top p a {
@@ -2443,3 +2445,8 @@ input, select, textarea {
 					}
 
 	}
+
+/* Devicons */
+.devicon {
+	font-size: 72px;
+}
